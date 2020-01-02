@@ -1,5 +1,5 @@
 #import "SEGCleverTapIntegration.h"
-#import <CleverTapSDK/CleverTap.h>
+#import <CleverTap-iOS-SDK/CleverTap.h>
 #import <Analytics/SEGAnalyticsUtils.h>
 #import "SEGCleverTapIntegrationFactory.h"
 
